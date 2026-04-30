@@ -1,0 +1,15 @@
+# Sensitive files
+src/main/resources/application.properties
+
+# Maven
+target/
+*.class
+
+# Eclipse IDE
+.classpath
+.project
+.settings/
+
+# IntelliJ IDE
+.idea/
+*.iml
